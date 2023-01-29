@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="checklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="datetime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="label.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mothcalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="numericupdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="operator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="picturebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="radiobutton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="checkbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listboxcombobox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="exlistandcombobox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registerform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="richtexbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="semiexam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tabcontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tooltip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="treeview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

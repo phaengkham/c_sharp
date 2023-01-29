@@ -1,0 +1,13 @@
+D:\Teach\C# programming\babyShop\babyShop\bin\Debug\babyShop.exe.config
+D:\Teach\C# programming\babyShop\babyShop\bin\Debug\babyShop.exe
+D:\Teach\C# programming\babyShop\babyShop\bin\Debug\babyShop.pdb
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.csproj.AssemblyReference.cache
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.csproj.SuggestedBindingRedirects.cache
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.Form1.resources
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.Properties.Resources.resources
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.registerForm.resources
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.csproj.GenerateResource.cache
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.csproj.CoreCompileInputs.cache
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.exe
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.pdb
+D:\Teach\C# programming\babyShop\babyShop\obj\Debug\babyShop.showForm.resources

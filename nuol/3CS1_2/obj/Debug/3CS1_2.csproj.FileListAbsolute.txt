@@ -1,0 +1,59 @@
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\3CS1_2.exe.config
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\3CS1_2.exe
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\3CS1_2.pdb
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csprojResolveAssemblyReference.cache
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmEducation.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.Properties.Resources.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csproj.GenerateResource.Cache
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\3CS1_2.exe
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\3CS1_2.pdb
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\ClassConnectDatabase.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\ClassConnectDatabase.pdb
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmDistrict.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmEmployee.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmProvince.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmStudent.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\Interop.AcroPDFLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\Interop.AcroPDFLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csproj.ResolveComReference.cache
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmInDocument.resources
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\Interop.WMPLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\bin\Debug\AxInterop.WMPLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\Interop.WMPLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\AxInterop.WMPLib.dll
+D:\Lecture2017_2018\Second semister\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmMediaPlayer.resources
+J:\3CS1_2\3CS1_2\bin\Debug\3CS1_2.exe.config
+J:\3CS1_2\3CS1_2\obj\Debug\Interop.AcroPDFLib.dll
+J:\3CS1_2\3CS1_2\obj\Debug\Interop.WMPLib.dll
+J:\3CS1_2\3CS1_2\obj\Debug\AxInterop.AcroPDFLib.dll
+J:\3CS1_2\3CS1_2\obj\Debug\AxInterop.WMPLib.dll
+J:\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csproj.ResolveComReference.cache
+J:\3CS1_2\3CS1_2\obj\Debug\3CS1_2.exe
+J:\3CS1_2\3CS1_2\obj\Debug\3CS1_2.pdb
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\3CS1_2.exe.config
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\Interop.AcroPDFLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\Interop.WMPLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\AxInterop.WMPLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csproj.ResolveComReference.cache
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\3CS1_2.exe
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\3CS1_2.pdb
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\3CS1_2.exe
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\3CS1_2.pdb
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\ClassConnectDatabase.pdb
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\Interop.AcroPDFLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\Interop.WMPLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\bin\Debug\AxInterop.WMPLib.dll
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csprojResolveAssemblyReference.cache
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmInDocument.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmMediaPlayer.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmStudent.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmDistrict.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmEducation.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmEmployee.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.frmProvince.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\_3CS1_2.Properties.Resources.resources
+E:\projects\Total projects\3CS1_2\3CS1_2\obj\Debug\3CS1_2.csproj.GenerateResource.Cache

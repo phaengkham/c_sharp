@@ -1,0 +1,17 @@
+D:\Teach\C# programming\lasaCollege\lasaCollege\bin\Debug\lasaCollege.exe.config
+D:\Teach\C# programming\lasaCollege\lasaCollege\bin\Debug\lasaCollege.exe
+D:\Teach\C# programming\lasaCollege\lasaCollege\bin\Debug\lasaCollege.pdb
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.csproj.AssemblyReference.cache
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.csproj.SuggestedBindingRedirects.cache
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.provinceform.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.Properties.Resources.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.csproj.GenerateResource.cache
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.csproj.CoreCompileInputs.cache
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.exe
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.pdb
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.district.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.ethnic.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.major.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.occupation.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.statuspaid.resources
+D:\Teach\C# programming\lasaCollege\lasaCollege\obj\Debug\lasaCollege.studentform.resources
